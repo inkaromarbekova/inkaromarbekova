@@ -2,7 +2,7 @@
  
  Studying & using Python, SQL, Tableau & Statistics.
  
- Reading a Big Data book.
+ Reading "Big Data" & "Statistics without tears"
  
  Enjoy: doing Data Science & Machine Learning projects.
  
