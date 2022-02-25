@@ -11,3 +11,5 @@
  Here: you can find 2 data/business analysis projects, 1 project in Python, 1 financial analysis project and my Tableau Public Portfolio.
  
  Started the projects: car safety & stock price prediction using tweets
+ 
+ Contact me on GitHub & LinkedIn.
