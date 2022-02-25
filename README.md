@@ -6,7 +6,7 @@
  
  Enjoy: doing Data Science & Machine Learning projects.
  
- Fun fact: like hip hop dance and doing makeup.
+ Fun fact: love hip hop dance and doing makeup.
  
  Here: you can find 2 projects in data/business analysis, 1 project in Python, 1 project in financial analysis and my Tableau Public Portfolio.
  
