@@ -1,6 +1,6 @@
  Interested in Data Analytics, Data Science, Machine Learning & Software Engineering.
  
- Studying Python, SQL, Tableau & Statistics.
+ Studying & using Python, SQL, Tableau & Statistics.
  
  Reading a Big Data book.
  
