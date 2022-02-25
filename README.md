@@ -12,4 +12,4 @@
  
  Started the projects: car safety & stock price prediction using tweets
  
- Contact me on GitHub & LinkedIn.
+ Text me HI on GitHub or LinkedIn.
