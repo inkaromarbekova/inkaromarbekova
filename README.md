@@ -4,7 +4,7 @@
  
  Reading "Big Data" & "Statistics without tears"
  
- Enjoy: doing Data Science & Machine Learning projects.
+ Enjoy: doing Data Science/Machine learning/Software engineering projects.
  
  Fun facts: love hip hop dance,doing makeup, talking to strangers and hearing their stories.
  
