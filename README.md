@@ -1,3 +1,5 @@
+ #standwithukraine
+ 
  Interested in Data Analytics, Data Science, Machine Learning & Software Engineering.
  
  Studying & using Python, SQL, Tableau & Statistics.
